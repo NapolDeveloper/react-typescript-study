@@ -17,6 +17,7 @@
     "react-dom": "^18.0.0",
     "react-redux": "^8.0.1",
     "react-router-dom": "^6.3.0",
+    "recoil": "^0.7.3",
     "redux-logger": "^3.0.6",
     "styled-components": "^5.3.5",
     "two.js": "^0.8.9"
